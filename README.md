@@ -15,7 +15,12 @@ A visually stunning and user-friendly responsive dashboard created using HTML, C
 
 ## 🌄 Preview
 
-![Dashboard Preview](https://example.com/dashboard-preview.png)
+![Dashboard Preview](https://github.com/AkashKompelly/Visual_Insights/blob/master/dashbord%20preview%20img.png)
+
+
+Demo here
+👉👉👉https://youtu.be/DEw_nyUJl-o
+
 
 ## 🚀 Installation and Usage
 
